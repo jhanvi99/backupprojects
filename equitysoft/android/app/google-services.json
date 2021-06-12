@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "347134523353",
+    "project_id": "equitysoft-9fbe7",
+    "storage_bucket": "equitysoft-9fbe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347134523353:android:ca00b9eca1acbdc6b68bc8",
+        "android_client_info": {
+          "package_name": "com.example.equitysoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347134523353-i87skqi6sn27i9psq1tktu93gsobtgut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.equitysoft",
+            "certificate_hash": "07dc7f81742fc5ade3c2a21b064acf727d7aabff"
+          }
+        },
+        {
+          "client_id": "347134523353-pusm6u0b7o2krntsb7gqv6ivkn3a708k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOHRDF602eF2gi8Le1DXOSiGkHEBqf-PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347134523353-pusm6u0b7o2krntsb7gqv6ivkn3a708k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

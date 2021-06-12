@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "776122391165",
+    "project_id": "comotp-5be1a",
+    "storage_bucket": "comotp-5be1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776122391165:android:c2ac2a429b9f23b492ef14",
+        "android_client_info": {
+          "package_name": "com.example.otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776122391165-m1u07fjs4b1vdsajpj5e3l7cltv8fedc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otp",
+            "certificate_hash": "07dc7f81742fc5ade3c2a21b064acf727d7aabff"
+          }
+        },
+        {
+          "client_id": "776122391165-lq6tcfc0870vphdhia4ml0o8c0ci2c9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3LlKm0QD2Bxxk2xfAJo_oQbjIpLs1UA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776122391165-lq6tcfc0870vphdhia4ml0o8c0ci2c9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
